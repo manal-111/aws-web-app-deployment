@@ -1,7 +1,7 @@
 # AWS Web Application Deployment
 
 This repository contains the solution for the Week 9 assignment: AWS Web Application Deployment with ALB, ASG, and S3.
-Deploy the provided index.html with logos as a highly available website using: 1. S3 for static assets 2. Auto Scaling Group for NGINX web servers 3. Application Load Balancer for traffic distribution
+
 ## Scenario
 
 The assignment involves deploying a website using S3 for static assets, an Auto Scaling Group (ASG) for Nginx web servers, and an Application Load Balancer (ALB) for traffic distribution.
@@ -60,7 +60,7 @@ The assignment involves deploying a website using S3 for static assets, an Auto 
     * Health checks: EC2
 
 3.  **Deliverables:**
-    * Running instances screenshot: https://github.com/manal-111/aws-web-app-deployment/blob/main/Instances.png
+    * Running instances screenshot: Instances.png
     * ASG configuration details:
 
 ## Part 3: Application Load Balancer

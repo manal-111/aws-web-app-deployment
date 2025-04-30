@@ -60,7 +60,7 @@ The assignment involves deploying a website using S3 for static assets, an Auto 
     * Health checks: EC2
 
 3.  **Deliverables:**
-    * Running instances screenshot: Instances.png
+    * Running instances screenshot:[ Instances.png](https://github.com/manal-111/aws-web-app-deployment/blob/aa5d50eb48723818b712ecebb0c65e4a46dcd40c/Instances.png)
     * ASG configuration details:
 
 ## Part 3: Application Load Balancer

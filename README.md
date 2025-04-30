@@ -75,11 +75,6 @@ The assignment involves deploying a website using S3 for static assets, an Auto 
     * Verified round-robin traffic distribution using `curl`.
 
 
-## Success Criteria
-
-* Website accessible via S3 endpoint and ALB endpoint.
-* ASG automatically replaces terminated instances (I tested this by... and here's the evidence...).
-* All assets (HTML and logos) load properly.
 
 ## Cleanup
 
